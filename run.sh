@@ -1,5 +1,5 @@
 #!/bin/bash
-#https://github.com/bormaxi8080/SystemScripts/jetbrains-reset-trial-mac-osx.sh
+# https://github.com/bormaxi8080/jetbrains-reset-trial-mac-osx
 
 for product in IntelliJIdea WebStorm DataGrip PhpStorm CLion PyCharm GoLand RubyMine Rider DataSpell AppCode; do
   echo "closing $product"
